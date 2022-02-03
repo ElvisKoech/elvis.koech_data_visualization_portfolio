@@ -34,4 +34,14 @@
  + The General Public were the main users 
  
  - ![](Covid-19 Dashboard.png)
+ 
+ 
+ 
+ 
+
+[Project 5: Created Sales Performance Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/SalesReport_16361402237660/Dashboard1)
+ + Created Sales Performance report to track company Key performance Indicators over the years
+ + The General Public were the main users 
+ 
+ - ![](Sales Performance Report.png)
 
