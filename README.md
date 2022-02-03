@@ -12,9 +12,17 @@
 
 
 [Project 2: Overall Company Performance for the year 2021 Using Microsoft Power BI](https://i2.paste.pics/FVO66.png)
- + Developed Company report for the year 2021 to analysis Company performance in different segements in the business.
+ + Developed Company report for the year 2021 to analyze Company performance in different segements in the business.
  + Company Stakeholders were the main users i.e Financial Planning & Analysis Manager, Head of Commercial, Sales Manager.
  
  - ![](Overall company performance1.PNG)
  - ![](Overall company performance2.PNG)
  - ![](Overall company performance3.PNG)
+
+
+[Project 3: Visualized Profit & Loss Report for the Finance Department Using Data StudioI](https://i2.paste.pics/FVO8V.png)
+ + Prepared Data Visualization for the Finance department.
+ + Company Stakeholders and Finance Department were the main users 
+ 
+ - ![](Profit & Loss Report1.PNG)
+ - ![](Profit & Loss Report1.PNG)
