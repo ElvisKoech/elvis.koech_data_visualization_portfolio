@@ -11,7 +11,7 @@
 
 
 
-[Project 2: Overall Company Performance for the year 2021 Using Microsoft Power BI](https://i2.paste.pics/FVO66.png)
+[Project 2: Prepared Overall Company Performance for the year 2021 Using Microsoft Power BI](https://i2.paste.pics/FVO66.png)
  + Developed Company report for the year 2021 to analyze Company performance in different segements in the business.
  + Company Stakeholders were the main users i.e Financial Planning & Analysis Manager, Head of Commercial, Sales Manager.
  
