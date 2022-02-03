@@ -3,7 +3,18 @@
 
 [Project 1: Sales Dashboard Using Microsoft Power BI](https://i2.paste.pics/FVO36.png)
 
- + I designed an interactive Dashboard to visualize and track the current trend of Sales and Revenue as from Jan 2022.
+ + Designed an interactive Dashboard to visualize and track the current trend of Sales and Revenue as from Jan 2022.
  + Company Stakeholders were the main users i.e Financial Planning & Analysis Manager, Head of Commercial, Sales Manager.
+ + Note: I used sample data.
  
  - ![Sales Dashboard ](Sales Dashboard.PNG)
+
+
+
+[Project 2: Overall Company Performance for the year 2021 Using Microsoft Power BI](https://i2.paste.pics/FVO66.png)
+ + Developed Company report for the year 2021 to analysis Company performance in different segements in the business.
+ + Company Stakeholders were the main users i.e Financial Planning & Analysis Manager, Head of Commercial, Sales Manager.
+ 
+ - ![](Overall company performance1.PNG)
+ - ![](Overall company performance2.PNG)
+ - ![](Overall company performance3.PNG)
