@@ -20,9 +20,18 @@
  - ![](Overall company performance3.PNG)
 
 
-[Project 3: Visualized Profit & Loss Report for the Finance Department Using Data StudioI](https://i2.paste.pics/FVO8V.png)
+[Project 3: Visualized Profit & Loss Report for the Finance Department Using Data Studio](https://i2.paste.pics/FVO8V.png)
  + Prepared Data Visualization for the Finance department.
  + Company Stakeholders and Finance Department were the main users 
  
  - ![](Profit & Loss Report1.PNG)
- - ![](Profit & Loss Report1.PNG)
+ - ![](Profit & Loss Report2.PNG)
+
+
+
+[Project 4: Prepared Covid-19 Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/Covid-19DashboardwithTableau/Covid-19Dashboard)
+ + Prepared Covid-19 Dashboard to track the Covid Cases and Deaths per country as from Feb 2020 to November 2021.
+ + The General Public were the main users 
+ 
+ - ![](Covid-19 Dashboard.png)
+
