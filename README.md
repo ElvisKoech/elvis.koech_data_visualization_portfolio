@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Elvis Koech Data Visualization Portfolio
 
 You can use the [editor on GitHub](https://github.com/ElvisKoech/elvis.koech_data_visualization_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
