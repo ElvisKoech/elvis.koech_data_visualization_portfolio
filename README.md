@@ -1,7 +1,7 @@
 ## Welcome to Elvis Koech Data Visualization Portfolio
 
 
-[Project 1: Sales Dashboard Using Microsoft Power BI]
+[Project 1: Sales Dashboard Using Microsoft Power BI](https://i2.paste.pics/FVO36.png)
 
  + I created an interactive Dashboard to visualize and track the current trend of Sales and Revenue as from Jan 2022.
  + Company Stakeholders were the main users i.e Finacial & Planning Manager, Head of Commercial, Sales Manager.
