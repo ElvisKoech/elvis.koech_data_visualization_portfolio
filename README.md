@@ -35,19 +35,15 @@
  
  - ![](Covid-19 Dashboard.png)
    
-[Project 6: Visualized HR attrition](https://i2.paste.pics/FVO8V.png)
+[Project 5: Visualized HR attrition](https://i2.paste.pics/FVO8V.png)
  + This is an overview of employee turnover rates within an organization. It includes metrics such as total headcount, attrition rate, voluntary vs. involuntary attrition, average tenure, and cost of attrition. + 
  + The dashboard allows HR teams to track turnover rates in specific departments or teams, identify areas of concern, and develop targeted retention strategies.
  + By providing data-driven insights into employee turnover, an HR attrition dashboard enables HR teams to make informed decisions to retain and engage their workforce. 
  
- - ![](Profit & Loss Report1.PNG)
-
- 
- 
- 
+ - ![](Hr Attrition dashboard.svg)
  
 
-[Project 5: Created Sales Performance Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/SalesReport_16361402237660/Dashboard1)
+[Project 6: Created Sales Performance Dashboard Using Tableau](https://public.tableau.com/app/profile/elvis.koech/viz/SalesReport_16361402237660/Dashboard1)
  + Created Sales Performance report to track company Key performance Indicators over the years
  + The General Public were the main users 
  
